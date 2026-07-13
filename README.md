@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
