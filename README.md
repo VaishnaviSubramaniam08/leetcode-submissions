@@ -21,4 +21,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/1148-article-views-i) |
 | [1683-invalid-tweets](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/1757-recyclable-and-low-fat-products) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/VaishnaviSubramaniam08/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
